@@ -1,7 +1,7 @@
 # 13T Drivers
 <a href="https://t.me/OnePlus_11_12_13"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a>
 
-This is a module for OnePlus 13T owners, who are flashing OOS from the OnePlus 13s
+This is a module for OnePlus 13T owner, for fix camera functionality and correct battery capacity after updating to or converting to OxygenOS 15.
 
 ### KernelSU
 
