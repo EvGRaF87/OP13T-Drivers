@@ -1,6 +1,6 @@
 {
-    "version": "1.1.1",
-    "versionCode": 81,
-    "zipUrl": "https://github.com/EvGRaF87/OP13T-Drivers/releases/download/500/OP13T-ViP.1.1.1-500.zip",
+    "version": "v1.1.2",
+    "versionCode": 82,
+    "zipUrl": "https://github.com/EvGRaF87/OP13T-Drivers/releases/download/601/OP13T-Fix-v1.1.2-601.zip",
     "changelog": "https://raw.githubusercontent.com/EvGRaF87/OP13T-Drivers/main/changelog.md"
 }
