@@ -3,6 +3,8 @@
 
 This is a module for OnePlus 13T owners, for fix camera functionality and correct battery capacity after updating or converting to OxygenOS 15.
 
+![photo_2025-09-05_16-46-31](https://github.com/user-attachments/assets/126bbcee-3bdb-469a-b7ec-48b557532131)
+
 ### KernelSU
 
 + Minimal KernelSU version: 10940
