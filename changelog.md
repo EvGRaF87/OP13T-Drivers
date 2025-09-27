@@ -7,3 +7,6 @@ V1.1.1:
 
 V1.1.2:
 • Update Sources from ColorOS 601
+
+V1.1.3:
+• Update Sources from ColorOS 603
