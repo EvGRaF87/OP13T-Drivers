@@ -10,3 +10,6 @@ V1.1.2:
 
 V1.1.3:
 • Update Sources from ColorOS 603
+
+V1.2:
+• Update Sources from PKX110 ColorOS 212 ( ColorOS 16 )
