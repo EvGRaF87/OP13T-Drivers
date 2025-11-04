@@ -13,3 +13,6 @@ V1.1.3:
 
 V1.2:
 • Update Sources from PKX110 ColorOS 212 ( ColorOS 16 )
+
+V1.2.1:
+• Update Sources from PKX110 ColorOS 213 ( ColorOS 16 )
